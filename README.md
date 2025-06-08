@@ -40,6 +40,6 @@ Learn and apply basic web technologies to build a simple interactive webpage.
 
 Below is a preview of the final webpage layout:
 
-![Webpage Screenshot](Screenshots/Image 1.png)
+![Webpage Screenshot](Screenshots/Image1.png)
 
 ## Live demo
